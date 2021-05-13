@@ -1,0 +1,15 @@
+/*admin navbar*/
+.navbar-brand{
+	font-family: "Ubuntu", sans-serif;
+	font-size: 2em;
+	font-weight: bold;
+	color: #fff;
+}
+
+/*plus button*/
+.box{
+	position: fixed;
+	right: 20px;
+	bottom: 30px;
+	margin-bottom: 20px;
+}
